@@ -4,6 +4,7 @@ const App = () => {
   return (
     <div>
       <MyComponent />
+      dgsdfg
     </div>
   )
 }
@@ -11,6 +12,3 @@ const App = () => {
 export default App
 
 
-function MyComponent() {
-  return <h1>Hello, I am Functional Component</h1>;
-}
